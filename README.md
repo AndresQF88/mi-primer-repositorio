@@ -11,4 +11,3 @@ Este es el texto del repositorio.....
 *Texto en itálica  
 
 [Este es un enlace al sitio web de la UCR](https://www.ucr.ac.cr)  
-[Este es un elace al sitio web de la UCR](https://www.google.com)
